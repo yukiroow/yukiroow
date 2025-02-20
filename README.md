@@ -3,6 +3,7 @@
 #### An Information Technology student aspiring to be a Full-Stack Developer.
 
 Studies at [Saint Louis University](https://www.slu.edu.ph/);
+
 Team Leader of [Team Kotl](https://github.com/team-kotl);
 
 #### Tech Stack
