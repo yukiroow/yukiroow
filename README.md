@@ -1,6 +1,6 @@
 ## Hi 🤝
 
-#### An Information Technology student aspiring to be a Full-Stack Developer.
+#### SWE grind
 
 Studies at [Saint Louis University](https://www.slu.edu.ph/);
 
