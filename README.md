@@ -2,7 +2,7 @@
 
 #### SWE grind
 
-Studies at [Saint Louis University](https://www.slu.edu.ph/);
+[Saint Louis University](https://www.slu.edu.ph/) IT Graduate;
 
 Team Leader of [Team Kotl](https://github.com/team-kotl);
 
