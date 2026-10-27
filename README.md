@@ -1,8 +1,8 @@
 ## Hi 🤝
 
-#### SWE grind
+#### SWEeee
 
-[Saint Louis University](https://www.slu.edu.ph/) IT Graduate;
+BSIT
 
 Team Leader of [Team Kotl](https://github.com/team-kotl);
 
